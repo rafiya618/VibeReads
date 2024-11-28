@@ -13,16 +13,16 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret_here</pre>
 ## Installation Instructions ##
 1. Clone the Repository<br>
 2. Navigate to the backend directory and install dependencies:
-<pre>```cd backend
-npm install```</pre>
+<pre>cd backend
+npm install</pre>
 3. Create a .env file in the backend directory and configure it with the necessary environment variables.<br>
 4. Set Up Frontend<br>
 5. Navigate to the frontend directory and install dependencies:
-<pre>```cd frontend
-npm install```</pre>
+<pre>cd frontend
+npm install</pre>
 6. Start the backend server:
-<pre>```cd backend
-node server.js```</pre>
+<pre>cd backend
+node server.js</pre>
 7. Run the Application:
-<pre>```cd frontend
-npm start```</pre>
+<pre>cd frontend
+npm start</pre>
