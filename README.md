@@ -11,7 +11,7 @@ GOOGLE_CLIENT_ID=your_google_client_id_here
 GOOGLE_CLIENT_SECRET=your_google_client_secret_here</pre>
 2. Replace placeholder values (your_mongo_uri_here, your_jwt_secret_here, etc.) with your actual credentials and settings.
 ## Installation Instructions ##
-1. Clone the Repository<br>
+1. Clone the Repository (master branch)<br>
 2. Navigate to the backend directory and install dependencies:
 <pre>cd backend
 npm install</pre>
